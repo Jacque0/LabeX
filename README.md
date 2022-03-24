@@ -6,7 +6,7 @@
 
 ## Descrição do projeto
 
-O LabeX é uma plataforma de viagens espaciais com um desing responsivo que possui duas partes: uma pública e uma privada. Caso queira acessar a área privada, utilize as informções de email e senha.
+O LabeX é uma plataforma de viagens espaciais com um desing responsivo que possui duas partes: uma pública e uma privada. Caso queira acessar a área privada, utilize as informções de email e senha abaixo.
 ### Email
 jacqueline.cmessias@gmail.com
 ### Senha
