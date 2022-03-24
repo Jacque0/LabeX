@@ -14,7 +14,7 @@ labenu10front
 
 ## Instalação
 ```
-$ git clone https://github.com/Jacque0/LabeX-Labenu.git
+$ git clone https://github.com/Jacque0/LabeX.git
 $ npm install
 $ npm start
 ```
