@@ -1,10 +1,16 @@
 # LabeX
 
-O LabeX é uma plataforma de viagens espaciais
-
 ## Site
 
 [LabeX](http://lonely-wind.surge.sh/)
+
+## Descrição do projeto
+
+O LabeX é uma plataforma de viagens espaciais com um desing responsivo que possui duas partes: uma pública e uma privada. Caso queira acessar a área privada, utilize as informções de email e senha.
+### Email
+jacqueline.cmessias@gmail.com
+### Senha
+labenu10front
 
 ## Instalação
 ```
